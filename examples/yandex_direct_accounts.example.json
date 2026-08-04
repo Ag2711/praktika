@@ -1,0 +1,7 @@
+[
+  {
+    "login": "e-XXXXXXXX",
+    "token": "__SET_IN_AIRFLOW_OR_SECRET_BACKEND__",
+    "cabinet_id": "e-XXXXXXXX"
+  }
+]
