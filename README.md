@@ -167,7 +167,6 @@ yandex_direct_target_date
 - [`docs/05-operations.md`](docs/05-operations.md) — расписание, запуск, backfill и проверки качества.
 - [`docs/06-troubleshooting.md`](docs/06-troubleshooting.md) — диагностика типовых проблем.
 - [`docs/07-known-limitations.md`](docs/07-known-limitations.md) — технические риски и расхождения текущей реализации.
-- [`docs/08-it-handoff-checklist.md`](docs/08-it-handoff-checklist.md) — чек-лист передачи в IT.
 - [`docs/09-source-manifest.md`](docs/09-source-manifest.md) — соответствие исходных и нормализованных имен файлов.
 
 ## Безопасность
