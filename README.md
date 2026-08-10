@@ -1,6 +1,6 @@
 ### Пайплайн по аналитике маркейтинг Практика
 
-Сквозная аналитика для связки **Яндекс Директ → MacroCRM → PostgreSQL → Superset**.
+Сквозная аналитика для связки **Яндекс Директ -> MacroCRM -> PostgreSQL -> Superset**.
 
 Репозиторий содержит пять Airflow DAG-ов и документацию по их настройке, порядку запуска, таблицам, метрикам и диагностике.
 
@@ -65,10 +65,10 @@ flowchart LR
 
 ```text
 yandex_direct_loader
-→ macro_mysql_to_pg_loader
-→ crm_yandex_leads_matched_loader
-→ daily_deal_aggregates_loader
-→ yandex_criterion_performance_loader
+-> macro_mysql_to_pg_loader
+-> crm_yandex_leads_matched_loader
+-> daily_deal_aggregates_loader
+-> yandex_criterion_performance_loader
 ```
 
 ## Основные таблицы
